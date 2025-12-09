@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pycharm
+.idea/
+
+# Virtual environment
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Pygame
+*.pyc
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Screenshots (we'll keep the directory but ignore actual screenshot files for now)
+# screenshots/*.png
+# screenshots/*.jpg
